@@ -1,0 +1,66 @@
+.background {
+    background-color: #3D405B;
+}
+
+.left-area {
+    padding-bottom: 20px;
+}
+
+.menu {
+    font-size: 20px;
+    font-weight: 800;
+    color: #81B29A;
+    padding-left: 15%;
+}
+
+.name {
+    font-size: 40px;
+    font-weight: 800;
+    color: #81B29A;
+    padding-bottom: 10px;
+}
+
+.position-name {
+    font-size: 22px;
+    font-weight: 600;
+    color: #81B29A;
+    padding-bottom: 20px;
+}
+
+.main-line {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(184,170,171, 0.3);
+    padding-bottom: 20px;
+}
+
+.general-text {
+    font-size: 17px;
+    font-weight: 400;
+    color: rgba(184,170,171, 0.8);
+}
+
+.social-network-link {
+    color: rgba(184,170,171, 0.5);
+}
+
+.social-network-link:hover {
+    color: #81B29A;
+}
+
+.social-network-icons {
+    max-width: 60%;
+    min-width: 40%;
+    padding-bottom: 20px;
+}
+
+.link {
+    color: rgba(184,170,171, 0.9);
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.link:hover {
+    color: #81B29A;
+    text-decoration: none;
+}
